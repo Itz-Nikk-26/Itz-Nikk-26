@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **Frontent , Backend , Python , PowerBI**
+- 💬 Ask me about **Frontent - HTML,CSS,JS,REACT  Backend-MERN STACK - NODE.JS , EXPRESS.JS , DATABASE - MONGODB , MYSQL **
 
 - 📫 How to reach me **nikhilmahant26nm@gmail.com**
 
